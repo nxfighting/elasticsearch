@@ -1,0 +1,7 @@
+spring:
+  data:
+    elasticsearch:
+      cluster-name: gf-cluster
+      cluster-nodes: 47.96.93.75:9200
+      repositories:
+        enabled: true
